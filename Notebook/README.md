@@ -15,20 +15,27 @@ import matplotlib.pyplot as plt
 df = pd.read_excel(r'...\....\python\airData_Train.xlsx')
 df.head()
 ```
+```
+df.shape
+```
 
 # Data Cleaning 
-1. This function displays the total count of null values in each column
+
 ```
 df.isnull().sum()
 ```
-2. dropping the null values if present
 ```
 df.dropna(inplace=True)
 ```
-3. df.info()
 ```
 df.info()
 ```
 
 # Handling the categorical data present in the dataset
+
+We are using 2 main Encoding Techniques to convert Categorical data into some numerical format
+```
+1. `Nominal data` --> data are not in any order --> `OneHotEncoder` is used in this case
+   
+2. `Ordinal data` --> data are in order --> `LabelEncoder` is used in this case
 ```
