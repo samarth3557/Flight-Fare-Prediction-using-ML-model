@@ -1,6 +1,7 @@
 # Flight Fare Prediction in INDIA using Machine Learning model
-### Pyton, ML
+### Python, ML
 
+### Introduction :
    Travel is the movement of people between distant geographical locations. Travel can be done by foot, bicycle, automobile, train, boat, bus, airplane, ship or other means, with or without luggage, and can be one way or round trip. Travel can also include relatively short stays between successive movements, as in the case of tourism. As considering the travelling with flight we will be only go ahead with flight details such as the routes,journey time, etc. By adopting machine learning techniques to lessen the uncertainty of future flight pricing, technology can give a solution. We'll be using the Flight Price Dataset from Flight Price. This dataset contains items that cover domestic and international airline flights in India in 2019.
    
    ![image of travel](https://github.com/samarth3557/Flight-Fare-Prediction-using-ML-model/blob/main/Images/travel.jpg)
