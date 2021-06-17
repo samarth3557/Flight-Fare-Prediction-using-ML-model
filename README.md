@@ -1,8 +1,6 @@
 # Flight Fare Prediction using Machine Learning model
 
-   Travel is the movement of people between distant geographical locations. Travel can be done by foot, bicycle, automobile, train, boat, bus, airplane, ship or other means, with or without luggage, and can be one way or round trip.[1] Travel can also include relatively short stays between successive movements, as in the case of tourism.
-   
-   Everyone wants to avoid the city traffic since ravelling is one of the most pleasurable pastimes. Going to another island with its unique natural beauty allows you to see things from a different perspective. The Indian, with its uniqueness, is one of the most fascinating cities in the world, bringing with it a slew of amazing islands. By adopting machine learning techniques to lessen the uncertainty of future flight pricing, technology can give a solution. We'll be using the Flight Price Dataset from Flight Price. This dataset contains items that cover domestic and international airline flights in India in 2019.
+   Travel is the movement of people between distant geographical locations. Travel can be done by foot, bicycle, automobile, train, boat, bus, airplane, ship or other means, with or without luggage, and can be one way or round trip.[1] Travel can also include relatively short stays between successive movements, as in the case of tourism. By adopting machine learning techniques to lessen the uncertainty of future flight pricing, technology can give a solution. We'll be using the Flight Price Dataset from Flight Price. This dataset contains items that cover domestic and international airline flights in India in 2019.
    
    The main aim of this notebook is to draw Machine learning model for better understanding of flight details,routes,fares and many more in the country(INDIA) from the given dataset. An Exploratory Data Analysis (EDA) technique is being implemented to study and analyze the flight fares.
    
