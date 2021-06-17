@@ -1,1 +1,1 @@
-# Flight-Fare-Prediction-using-ML-model
+# Flight Fare Prediction using Machine Learning model
