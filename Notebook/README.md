@@ -42,13 +42,13 @@ We are using 2 main Encoding Techniques to convert Categorical data into some nu
 
 # Airline vs Price Analysis :
 
-![Image of airline vs price](https://github.com/samarth3557/Flight-Fare-Prediction-using-ML-model/blob/main/Images/Price%20vs%20Airline.png)
+![Image of airline vs price](https://github.com/samarth3557/Flight-Fare-Prediction-using-ML-model/blob/main/Images/Airline%20vs%20price.png)
 
 From graph we can see that Jet Airways Business have the highest Price., Apart from the first Airline almost all are having similar median
 
 # Outlier :
 
-![Image of outliers](https://github.com/samarth3557/Flight-Fare-Prediction-using-ML-model/blob/main/Images/outlier.png)
+![Image of outliers](https://github.com/samarth3557/Flight-Fare-Prediction-using-ML-model/blob/main/Images/outliers.png)
 
 # Training the Machine Learning Model!
 ## Linear Regression Model :
